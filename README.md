@@ -20,6 +20,8 @@ Future updates to page styling and code formatting can be enacted with less time
 
 
 ## Authors and acknowledgment
+Source materials provided via bootcampspot & CONN-VIRT-FSF-PT-03-2023-U-LOLC through gitlab.
+
 Special thanks to @Mo Ager & @Luis Quicano for supplying the challenge materials.
 
 ## License
